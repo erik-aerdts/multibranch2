@@ -10,6 +10,8 @@
 # save the file separate from your repository.  If you want secrets backed up
 # with configuration, then see the bottom of this file for an example.
 
+Jenkinsfile
+
 # Ignore all JENKINS_HOME except jobs directory, root xml config, and
 # .gitignore file.
 /*
